@@ -1,6 +1,8 @@
 # weather-app-react
 -✅ API used - https://openweathermap.org/api/one-call-api
+
 -✅ Animation library for JS - https://animejs.com/
+
 -✅ Showcasing:
 
 Current weather from any city typed on search bar 🔍 .
